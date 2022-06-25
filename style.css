@@ -1,0 +1,203 @@
+.a{
+    position: absolute;
+    top: 500px;
+    right: 510px;
+    color: white;
+    opacity:0.4;
+}
+.b{
+    position: absolute;
+    top: 500px;
+    right: 80px;
+    color: white;
+    opacity:0.4;
+}
+
+.s{
+    position: absolute;
+    top: 500px;
+    right: 300px;
+    color: white;
+    opacity:0.4;
+}
+
+h1{
+    
+    text-align: center;
+    
+}
+body{
+    background-color: #000000;
+    
+}
+.astr{
+    float: right;
+    box-shadow: 10px 0 25px 8px yellow;
+}
+    
+
+
+div{
+    
+    width: 300px;   
+}
+p{
+    color: white;
+}
+.astreoid{
+    font-size: 20px;
+    float: left;
+    opacity: 0.5;
+    
+}
+.astreoid:hover{
+    transition: 1s , opacity, 1s ;
+    transform: scale(1.03);
+    font-size: 20px;
+    float: left;
+    opacity: 1;
+    
+}
+header{
+    color: #0038FF;
+}
+.sun{
+    margin-top:290px;
+    color:white ;
+}
+.pp{
+    width: 380px;
+    font-size: 20px;
+    float: left;
+    opacity: 0.5;
+}
+.pp:hover{
+    transition: 1s , opacity, 1s ;
+    transform: scale(1.03);
+    width: 400px;
+    font-size: 20px;
+    float: left;
+    opacity: 1;
+
+}
+
+
+.saan{
+    float: right;
+    box-shadow: 10px 0 25px 8px yellow;
+}
+
+.h{
+   margin-top:400px;
+   color: white; 
+}
+.ids{
+    height:319px;
+    width:239px;
+    box-shadow: 5px -10px 20px 1px red;
+}
+.i{
+    position: absolute;
+    left: 30px;
+    top: 1400px;
+    color: white;
+    opacity:1;
+    width: 200px;
+    font-size: 28px; 
+}
+
+
+
+.i:hover span{
+    display: none;
+
+}
+.i:hover::before{
+    content: "Спутник Nasa запечатлил огромную пыльную бурю летящая из пакистана над аравийским морем.";
+}
+
+footer{
+    background-color: #1b1b1d;
+    color: #0038FF;
+    height: 300px;
+}
+
+.ii{
+    position: absolute;
+    left: 280px;
+    top: 1400px;
+    color: white;
+    opacity:1;
+    width: 200px;
+    font-size: 28px; 
+}
+
+
+
+.ii:hover span{
+
+    display: none;
+}
+.ii:hover::before{
+    content: "Cпутник Nasa “терра” сделал снимок тропического циклона Билли в индийском";
+}
+.iii{
+    position: absolute;
+    left: 520px;
+    top: 1400px;
+    color: white;
+    opacity:1;
+    width: 200px;
+    font-size: 28px; 
+}
+.iii:hover::before{
+    content: "Спутник NOAA-20 сделала снимок дыма от пожаров в Алабе";
+}
+.iii:hover span{
+    display: none;
+}
+.rocker{
+    right: 30px;
+    position: fixed;
+    transform: rotate(180deg);
+    opacity: 0.8;
+    
+    
+}
+.idss{
+    box-shadow: 5px -10px 20px 1px red;
+    opacity: 1;
+}
+.idsss{
+    box-shadow: 5px -10px 20px 1px red;
+}
+.asa{
+    font-size: 22px;
+    position: absolute;
+    top: 1800px;
+    left: 100px;
+    right: 140px;
+    color: black;
+    opacity:0.6; 
+}
+.da{
+    position: absolute;
+    top: 1970px;
+}
+.kals{
+    box-shadow: 170px 60px 130px 100px white;
+    width: 400px;
+}
+.hhh{
+    color: white;
+}
+.logo{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h4{
+    position: absolute;
+    top: 2010px;
+    right: 10px;
+    opacity: 0.4;
+    
+}
